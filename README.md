@@ -1,4 +1,7 @@
 # TranspositionCipher
+
+
+
 package binaryTrees;
 import java.util.Scanner;
 
@@ -50,7 +53,6 @@ public class TranspositionCipher {
 			done+=bob.substring(ab,ab+1);
 		}
 		System.out.println(done);
-		
 		System.out.println("What message do you want to decode?");
 		Scanner second = new Scanner(System.in);
 		String zaphod = second.nextLine();
