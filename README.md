@@ -6,6 +6,8 @@ package binaryTrees;
 import java.util.Scanner;
 
 public class TranspositionCipher {
+
+
 	public static void main (String args[]){
 		//rail fence transposition cipher
 		System.out.println("What message do you want to encode?");
